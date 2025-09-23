@@ -57,23 +57,6 @@ Passionate about building **intelligent systems**, **real-time applications**, a
 ### 8. **Real-Time Object Detection**
 - **Object detection using camera feed**  
 - Tools: Python, OpenCV, YOLO  
-
-### 9. **Portfolio**
-- Personal **AI & ML portfolio** showcasing projects  
-- Tools: Python, HTML, CSS  
-
-### 10. **NASA Project**
-- Space-related data analysis and visualization  
-- Tools: Python, Jupyter Notebook  
-
-### 11. **Track Location Using Phone Number**
-- Web-based **location tracking system**  
-- Tools: HTML, JavaScript  
-
-### 12. **Learn Python Basics**
-- Educational repository for **Python fundamentals**  
-- Tools: Python, Jupyter Notebook  
-
 ---
 
 ## 📊 GitHub Stats  
