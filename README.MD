@@ -61,15 +61,15 @@ Passionate about building intelligent systems, real-time applications, and solvi
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinashabilash&show_icons=true&theme=tokyonight" alt="Avinash's GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashabilash&layout=compact&theme=tokyonight" alt="Top Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Avinashabilash&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="Avinash's GitHub Stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashabilash&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avinashabilash&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Avinashabilash&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub Streak" height="165px"/>
 </p>
 
 ---
@@ -88,6 +88,17 @@ Passionate about building intelligent systems, real-time applications, and solvi
 | 💪 **[long_jump_predicition](https://github.com/Avinashabilash/long_jump_predicition)** | Sports analytics using ML models | Jupyter Notebook |
 
 ---
+
+### 🌅 Commit Time Analysis  
+
+| 🌞 Morning | 🌇 Daytime | 🌆 Evening | 🌙 Night |
+|:-----------:|:----------:|:----------:|:--------:|
+| 15 commits | 76 commits | 89 commits | 79 commits |
+| ░░░░░░░░░░░░░░░░░░░░░░░░░ | ███████░░░░░░░░░░░░░░░░░ | █████████░░░░░░░░░░░░░░░ | ████████░░░░░░░░░░░░░░░ |
+| **5.8%** | **29.3%** | **34.4%** | **30.5%** |
+
+---
+
 
 ## 📈 Contribution Graph
 
