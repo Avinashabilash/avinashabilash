@@ -22,42 +22,7 @@ Passionate about building **intelligent systems**, **real-time applications**, a
 **Tools:** Git, GitHub, Jupyter, VS Code, Google Colab, Anaconda  
 **Databases:** MySQL, SQLite  
 
----
 
-## 🌟 Highlight Projects  
-
-### 1. **RAG – Retrieval-Augmented Generation**
-- AI-powered document assistant for **real-time Q&A**  
-- Tools: PyTorch, FAISS, Sentence Transformers, Python  
-
-### 2. **Sentiment Analysis on IMDB**
-- Comparative study using **BERT and Logistic Regression**  
-- Tools: PyTorch, Transformers, Python  
-
-### 3. **House Pricing Prediction**
-- Machine learning model to **predict house prices**  
-- Tools: Python, Scikit-learn, Pandas  
-
-### 4. **Allaspirants Website**
-- Responsive **portfolio and information website**  
-- Tools: HTML, CSS  
-
-### 5. **Marine Debris Analysis**
-- Analysis and visualization of **marine debris data**  
-- Tools: HTML, JavaScript  
-
-### 6. **Long Jump Prediction**
-- Predictive modeling for **athlete performance**  
-- Tools: Python, Jupyter Notebook  
-
-### 7. **Food Diet Plan Analysis**
-- Analysis of **diet plans and nutritional information**  
-- Tools: Python, Jupyter Notebook  
-
-### 8. **Real-Time Object Detection**
-- **Object detection using camera feed**  
-- Tools: Python, OpenCV, YOLO  
----
 
 ## 📊 GitHub Stats  
 
