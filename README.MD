@@ -12,9 +12,6 @@ Passionate about building intelligent systems, real-time applications, and solvi
 - 🎓 **Education** – B.Tech in Computer Science (AI & ML) @ VISTAS, Chennai  
 
 ---
-
-## 🔧 Skills & Tools
-
 ## 🔧 Skills & Tools
 
 ### 💬 Languages
