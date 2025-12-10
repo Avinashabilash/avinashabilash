@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Avinash G!
 
-🚀 **AI & ML Engineer | Full-Stack Developer | Data Enthusiast**  
+🚀 **AI & ML Engineer | Ai Developer | Data Enthusiast**  
 Passionate about building intelligent systems, real-time applications, and solving data-driven challenges.
 
 ---
 
 ## 🧠 About Me
 - 🤖 **AI & ML Enthusiast** – Deep Learning, Computer Vision, LLM Fine-tuning  
-- 💻 **Full-Stack Developer** – Django, Flask, HTML/CSS/JS for interactive apps  
+- 💻 **AI Developer** – Django, Flask, HTML/CSS/JS for interactive apps  
 - 📊 **Data & Analytics** – Web scraping, pipeline automation, real-time analysis  
 - 🎓 **Education** – B.Tech in Computer Science (AI & ML) @ VISTAS, Chennai  
 
@@ -19,8 +19,6 @@ Passionate about building intelligent systems, real-time applications, and solvi
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ---
 
 ### 🤖 AI / ML Frameworks
